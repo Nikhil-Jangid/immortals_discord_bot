@@ -91,6 +91,6 @@ client.on('message', message =>{
 
 });
  
-client.login('NzgxMjE4OTIxNjAzNzkyOTA2.X76c0Q.y1D3H2y9pyExAG3kjpa3j2J3zaU');
+client.login('NzgxMjE4OTIxNjAzNzkyOTA2.X76c0Q.f0OjecmMlXy2Wo-3McfrPCmDuGM');
  
  
