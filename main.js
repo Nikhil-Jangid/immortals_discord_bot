@@ -16,7 +16,7 @@ for(const file of commandFiles){
 
 client.on("ready", () =>{
     console.log(`Logged in as ${client.user.tag}!`);
-    client.user.setActivity('#IMMORTALS_BOLTEEE.', {type: 'WATCHING'});
+    client.user.setActivity('#aka_IMMORTALS.', {type: 'WATCHING'});
 })
 
 client.on(`message`, function(message){
