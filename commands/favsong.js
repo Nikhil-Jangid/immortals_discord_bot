@@ -13,7 +13,7 @@ module.exports = {
               description: "",
             fields: [{
                 name: "Make It Right By BTS",
-                value: "Listen on [Spotify](spotify:album:3HVNK5OxW9qfkySXjHWehH)"
+                value: "Listen on [Spotify](https://open.spotify.com/track/6KUE0HSSudAp9AOycaF6SH?autoplay=true)"
               },
               
             ],timestamp: new Date(),
