@@ -12,7 +12,7 @@ module.exports = {
               title: "",
               description: "",
             fields: [{
-                name: "Dynamite- Holiday Remix",
+                name: "Make It Right By BTS",
                 value: "Listen on [Spotify](spotify:album:3HVNK5OxW9qfkySXjHWehH)"
               },
               
